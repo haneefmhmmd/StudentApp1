@@ -79,7 +79,7 @@ export default function StudentForm() {
         <form className="card-body" onSubmit={handleSubmit}>
           <div className="mb-3">
             <label htmlFor="studentNumber" className="form-label">
-              Student Number
+              Student No.
             </label>
             <input
               type="text"
